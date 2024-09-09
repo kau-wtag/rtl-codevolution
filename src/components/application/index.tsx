@@ -23,8 +23,8 @@ export default function Application() {
           </select>
         </div>
         <div>
-          <label htmlFor="checkbox" id="terms">
-            <input type="checkbox" id="terms" /> i agree to the terms and
+          <label>
+            <input type="checkbox" id="terms" />I agree to the terms and
             conditions
           </label>
         </div>
