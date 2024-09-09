@@ -1,12 +1,9 @@
-import React from "react";
-import logo from "./logo.svg";
-import "./App.css";
-import Application from "./components/application";
+import Skills from "./components/skills";
 
 function App() {
   return (
     <div className="App">
-      <Application />
+      <Skills skills={["js", "css", "html"]} />
     </div>
   );
 }
