@@ -7,6 +7,7 @@ export default function Application() {
       <h2>Section 1</h2>
       <p>All fields are mandatory</p>
       <img src="" alt="a person with a laptop" />
+      <span title="close">X</span>
       <form>
         <div>
           <label htmlFor="name">Name</label>
